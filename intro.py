@@ -1,0 +1,5 @@
+print("Welcome to python programming")
+print('Heyyy World')
+print(5+12)
+print("5+17")
+print("Je'mapelle Kindo")
